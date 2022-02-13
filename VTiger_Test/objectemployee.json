@@ -1,0 +1,10 @@
+{
+  "name" : "Sanjeeb",
+  "phno" : 8983468973,
+  "mail" : "sanjeeb2gmail.com",
+  "employee" : {
+    "name" : "sanjeeb",
+    "phno" : [ 12344, 344543, 34533 ],
+    "eid" : "dash@gmail.com"
+  }
+}
